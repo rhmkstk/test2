@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "lets-add-color",
+    "fieldId": "lets-add-color",
+    "modelId": "this-is-md-test",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
