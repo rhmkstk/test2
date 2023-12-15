@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "media",
+    "fieldId": "media",
+    "modelId": "this-is-md-test",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
