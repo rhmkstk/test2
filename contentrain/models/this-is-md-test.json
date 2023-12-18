@@ -1,14 +1,5 @@
 [
   {
-    "name": "lets-add-color",
-    "fieldId": "lets-add-color",
-    "modelId": "this-is-md-test",
-    "componentId": "color",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "rich-text",
     "fieldId": "rich-text",
     "modelId": "this-is-md-test",
