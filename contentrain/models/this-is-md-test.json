@@ -1,14 +1,5 @@
 [
   {
-    "name": "okey google ",
-    "fieldId": "okey-google",
-    "modelId": "this-is-md-test",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "lets-add-color",
     "fieldId": "lets-add-color",
     "modelId": "this-is-md-test",
