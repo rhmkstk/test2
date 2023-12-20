@@ -37,5 +37,18 @@
       },
       "createdAt": "2023-12-19T14:03:00.600Z"
     }
+  },
+  {
+    "path": "public/assets/1703057212792_Mail template - documentation.pdf",
+    "mimetype": "application/pdf",
+    "size": 13607288,
+    "meta": {
+      "user": {
+        "name": "Rahmi Kostik",
+        "email": "rahmi.kstk@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIFhY7IChfCI5s1ZpErN6Voz0Krg2UuIMhDlU1VyMrV=s96-c"
+      },
+      "createdAt": "2023-12-20T07:26:57.295Z"
+    }
   }
 ]
