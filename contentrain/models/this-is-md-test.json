@@ -16,5 +16,13 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "testset-1",
+    "fieldId": "testset-1",
+    "modelId": "this-is-md-test",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {}
   }
 ]
