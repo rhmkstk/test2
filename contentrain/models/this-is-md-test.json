@@ -1,14 +1,5 @@
 [
   {
-    "name": "markdown",
-    "fieldId": "markdown",
-    "modelId": "this-is-md-test",
-    "componentId": "md-editor",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "testset",
     "fieldId": "testset",
     "modelId": "this-is-md-test",
