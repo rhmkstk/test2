@@ -9,15 +9,6 @@
     "fieldType": "string"
   },
   {
-    "name": "markdow-2",
-    "fieldId": "markdow-2",
-    "modelId": "this-is-md-test",
-    "componentId": "md-editor",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "rich-text",
     "fieldId": "rich-text",
     "modelId": "this-is-md-test",
