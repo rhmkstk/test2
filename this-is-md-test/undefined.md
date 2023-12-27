@@ -1,9 +1,9 @@
 ---
 ID: "6033dec9468f"
 createdAt: "2023-12-20T12:46:20.000Z"
-updatedAt: "2023-12-27T07:49:49.720Z"
+updatedAt: "2023-12-27T08:53:32.400Z"
 status: "draft"
-testset: "mesela buna da veri ekledim"
+rich-text: "<p>test for rt</p>"
 md-test: "test"
 
 ---
