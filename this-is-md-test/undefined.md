@@ -1,7 +1,7 @@
 ---
-ID: "6b44ae041be4"
-createdAt: "Wed Dec 27 2023 10:37:41 GMT+0300 (GMT+03:00)"
-updatedAt: "Wed Dec 27 2023 10:37:41 GMT+0300 (GMT+03:00)"
+ID: "6033dec9468f"
+createdAt: "2023-12-20T12:46:20.000Z"
+updatedAt: "2023-12-27T07:43:29.309Z"
 status: "draft"
 
 ---
