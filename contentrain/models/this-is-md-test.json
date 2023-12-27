@@ -1,14 +1,5 @@
 [
   {
-    "name": "testset",
-    "fieldId": "testset",
-    "modelId": "this-is-md-test",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "rich-text",
     "fieldId": "rich-text",
     "modelId": "this-is-md-test",
