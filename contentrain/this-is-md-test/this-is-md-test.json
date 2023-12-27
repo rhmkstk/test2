@@ -10,8 +10,9 @@
   {
     "ID": "6b44ae041be4",
     "createdAt": "2023-12-27T07:37:41.000Z",
-    "updatedAt": "2023-12-27T07:44:02.781Z",
-    "status": "draft"
+    "updatedAt": "2023-12-27T08:52:59.753Z",
+    "status": "draft",
+    "rich-text": "<p>tset for rich test!!!</p>"
   },
   {
     "ID": "a74894c6baf0",
