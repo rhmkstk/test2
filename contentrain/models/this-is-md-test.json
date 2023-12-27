@@ -24,5 +24,14 @@
     "componentId": "single-line-text",
     "validations": {},
     "options": {}
+  },
+  {
+    "name": "md-test",
+    "fieldId": "md-test",
+    "modelId": "this-is-md-test",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
