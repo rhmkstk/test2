@@ -6,19 +6,5 @@
     "status": "draft",
     "testset": "mesela buna da veri ekledim",
     "md-test": "test"
-  },
-  {
-    "ID": "6b44ae041be4",
-    "createdAt": "2023-12-27T07:37:41.000Z",
-    "updatedAt": "2023-12-27T08:52:59.753Z",
-    "status": "draft",
-    "rich-text": "<p>tset for rich test!!!</p>"
-  },
-  {
-    "ID": "a74894c6baf0",
-    "createdAt": "Wed Dec 27 2023 10:56:46 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Wed Dec 27 2023 10:56:46 GMT+0300 (GMT+03:00)",
-    "md-test": "test this is test",
-    "status": "publish"
   }
 ]
