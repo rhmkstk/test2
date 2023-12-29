@@ -1,14 +1,5 @@
 [
   {
-    "name": "rich-text",
-    "fieldId": "rich-text",
-    "modelId": "this-is-md-test",
-    "componentId": "rich-text-editor",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "md-test",
     "fieldId": "md-test",
     "modelId": "this-is-md-test",
