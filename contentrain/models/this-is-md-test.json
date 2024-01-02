@@ -25,5 +25,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "mult-line-text",
+    "fieldId": "mult-line-text",
+    "modelId": "this-is-md-test",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
