@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "color",
+    "fieldId": "color",
+    "modelId": "this-is-md-test",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
