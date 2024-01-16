@@ -43,5 +43,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "json test",
+    "fieldId": "json-test",
+    "modelId": "this-is-md-test",
+    "componentId": "json",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
