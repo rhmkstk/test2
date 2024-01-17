@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "asfasfasfag",
+    "fieldId": "asfasfasfag",
+    "modelId": "test-2",
+    "componentId": "json",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
