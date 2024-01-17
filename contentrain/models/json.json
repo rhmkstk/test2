@@ -1,14 +1,5 @@
 [
   {
-    "name": "json-test",
-    "fieldId": "json-test",
-    "modelId": "json",
-    "componentId": "json",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "media",
     "fieldId": "media",
     "modelId": "json",
