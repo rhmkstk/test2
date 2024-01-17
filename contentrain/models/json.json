@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "asfasgfag",
+    "fieldId": "asfasgfag",
+    "modelId": "json",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
