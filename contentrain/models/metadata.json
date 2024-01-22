@@ -26,5 +26,12 @@
     "localization": false,
     "type": "MD",
     "createdBy": "user"
+  },
+  {
+    "name": "testJson",
+    "modelId": "testjson",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
