@@ -1,14 +1,5 @@
 [
   {
-    "name": "media",
-    "fieldId": "media",
-    "modelId": "json",
-    "componentId": "media",
-    "options": {},
-    "validations": {},
-    "fieldType": "media"
-  },
-  {
     "name": "asfasgfag",
     "fieldId": "asfasgfag",
     "modelId": "json",
