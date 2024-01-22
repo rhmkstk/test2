@@ -19,5 +19,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "new md model",
+    "modelId": "new-md-model",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
   }
 ]
