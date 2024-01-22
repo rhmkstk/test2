@@ -1,11 +1,10 @@
 ---
 ID: "12e874b594e0"
-createdAt: "Mon Jan 22 2024 13:10:40 GMT+0300 (GMT+03:00)"
-updatedAt: "Mon Jan 22 2024 13:10:40 GMT+0300 (GMT+03:00)"
+createdAt: "2024-01-22T10:10:40.000Z"
+updatedAt: "2024-01-22T10:16:54.205Z"
+status: "draft"
 slug: "test"
 md-test: "my first content!"
-status: "draft"
-path: ""
 
 ---
-test
+test selam tekrar test **prev**
