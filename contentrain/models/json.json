@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "test-1",
+    "fieldId": "test-1",
+    "modelId": "json",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
