@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "testjson"
+  },
+  {
+    "name": "test-1",
+    "fieldId": "test-1",
+    "modelId": "testjson",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
