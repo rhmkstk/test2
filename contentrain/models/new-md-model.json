@@ -88,5 +88,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "new-md-model"
+  },
+  {
+    "name": "md-test",
+    "fieldId": "md-test",
+    "modelId": "new-md-model",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
