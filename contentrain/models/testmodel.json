@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "testmodel"
+  },
+  {
+    "name": "collor",
+    "fieldId": "collor",
+    "modelId": "testmodel",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
