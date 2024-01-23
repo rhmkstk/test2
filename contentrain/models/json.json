@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "color",
+    "fieldId": "color",
+    "modelId": "json",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
