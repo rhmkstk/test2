@@ -7,13 +7,5 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
-  },
-  {
-    "name": "test-2-1",
-    "fieldId": "test-2-1",
-    "modelId": "json",
-    "componentId": "md-editor",
-    "validations": {},
-    "options": {}
   }
 ]
