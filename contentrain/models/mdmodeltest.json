@@ -88,5 +88,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "mdmodeltest"
+  },
+  {
+    "name": "color",
+    "fieldId": "color",
+    "modelId": "mdmodeltest",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
