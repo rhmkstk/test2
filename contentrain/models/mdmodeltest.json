@@ -93,9 +93,23 @@
     "name": "color",
     "fieldId": "color",
     "modelId": "mdmodeltest",
-    "componentId": "color",
-    "options": {},
-    "validations": {},
+    "componentId": "single-line-text",
+    "options": {
+      "title-field": {
+        "value": false
+      },
+      "default-value": {
+        "value": false
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": false
+      },
+      "unique-field": {
+        "value": false
+      }
+    },
     "fieldType": "string"
   }
 ]
