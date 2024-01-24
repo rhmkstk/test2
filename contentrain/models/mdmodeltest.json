@@ -93,7 +93,7 @@
     "name": "color",
     "fieldId": "color",
     "modelId": "mdmodeltest",
-    "componentId": "color",
+    "componentId": "single-line-text",
     "options": {},
     "validations": {},
     "fieldType": "string"
