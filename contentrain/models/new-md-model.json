@@ -97,5 +97,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "media-test",
+    "fieldId": "media-test",
+    "modelId": "new-md-model",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
