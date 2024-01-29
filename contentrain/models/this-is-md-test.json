@@ -52,5 +52,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "sing-line",
+    "fieldId": "sing-line",
+    "modelId": "this-is-md-test",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
