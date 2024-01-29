@@ -61,5 +61,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "rating-test",
+    "fieldId": "rating-test",
+    "modelId": "this-is-md-test",
+    "componentId": "rating",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
