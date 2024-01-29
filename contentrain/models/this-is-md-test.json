@@ -97,5 +97,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "arr-colr",
+    "fieldId": "arr-colr",
+    "modelId": "this-is-md-test",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
   }
 ]
