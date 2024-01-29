@@ -24,6 +24,21 @@
     "path": ""
   },
   {
+    "ID": "50dfc54eeaa2",
+    "createdAt": "Mon Jan 29 2024 11:44:20 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Mon Jan 29 2024 11:44:20 GMT+0300 (GMT+03:00)",
+    "rating-test": 2,
+    "arr-colr": [
+      "rgb(38, 165, 154)",
+      "rgb(156, 40, 177)",
+      "rgb(251, 140, 0)",
+      "rgb(38, 165, 154)",
+      "rgb(255, 171, 145)"
+    ],
+    "status": "draft",
+    "path": ""
+  },
+  {
     "ID": "52e11804cfff",
     "createdAt": "Mon Jan 29 2024 10:42:10 GMT+0300 (GMT+03:00)",
     "updatedAt": "Mon Jan 29 2024 10:42:10 GMT+0300 (GMT+03:00)",
