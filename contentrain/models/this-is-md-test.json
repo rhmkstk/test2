@@ -79,5 +79,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "emaill",
+    "fieldId": "emaill",
+    "modelId": "this-is-md-test",
+    "componentId": "email",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
