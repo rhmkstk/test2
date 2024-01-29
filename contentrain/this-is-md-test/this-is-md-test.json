@@ -17,15 +17,15 @@
   },
   {
     "ID": "6366ffc7b9e1",
-    "createdAt": "Mon Jan 29 2024 10:10:09 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Mon Jan 29 2024 10:10:09 GMT+0300 (GMT+03:00)",
+    "createdAt": "2024-01-29T07:10:09.000Z",
+    "updatedAt": "2024-01-29T07:12:30.788Z",
+    "status": "draft",
     "md-test": "content test",
     "md-2": "awesome contnet",
     "richtext": "<p>best content</p>",
     "mult-line-text": "this is some content for test",
     "color": "rgb(241, 98, 126)",
-    "json-test": "{\n    \"name\": \"aa\"\n}",
-    "status": "draft",
+    "json-test": "{\n    \"name\": \"aa\",\n    \"surname\": \"bb\",\n    \"age\": 20,\n    \"gender\": \"male\"\n}",
     "path": ""
   },
   {
