@@ -70,5 +70,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "multi-test",
+    "fieldId": "multi-test",
+    "modelId": "this-is-md-test",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
