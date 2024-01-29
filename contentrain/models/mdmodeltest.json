@@ -101,5 +101,14 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "media",
+    "fieldId": "media",
+    "modelId": "mdmodeltest",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
